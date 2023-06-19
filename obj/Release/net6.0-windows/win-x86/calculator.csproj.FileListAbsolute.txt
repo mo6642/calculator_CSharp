@@ -1,0 +1,17 @@
+D:\projects\C#\form\WinFormsApp3\bin\Release\net6.0-windows\win-x86\calculator.exe
+D:\projects\C#\form\WinFormsApp3\bin\Release\net6.0-windows\win-x86\calculator.deps.json
+D:\projects\C#\form\WinFormsApp3\bin\Release\net6.0-windows\win-x86\calculator.runtimeconfig.json
+D:\projects\C#\form\WinFormsApp3\bin\Release\net6.0-windows\win-x86\calculator.dll
+D:\projects\C#\form\WinFormsApp3\bin\Release\net6.0-windows\win-x86\calculator.pdb
+D:\projects\C#\form\WinFormsApp3\obj\Release\net6.0-windows\win-x86\calculator.csproj.AssemblyReference.cache
+D:\projects\C#\form\WinFormsApp3\obj\Release\net6.0-windows\win-x86\WindowsFormsApp1.Form1.resources
+D:\projects\C#\form\WinFormsApp3\obj\Release\net6.0-windows\win-x86\calculator.csproj.GenerateResource.cache
+D:\projects\C#\form\WinFormsApp3\obj\Release\net6.0-windows\win-x86\calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\C#\form\WinFormsApp3\obj\Release\net6.0-windows\win-x86\calculator.AssemblyInfoInputs.cache
+D:\projects\C#\form\WinFormsApp3\obj\Release\net6.0-windows\win-x86\calculator.AssemblyInfo.cs
+D:\projects\C#\form\WinFormsApp3\obj\Release\net6.0-windows\win-x86\calculator.csproj.CoreCompileInputs.cache
+D:\projects\C#\form\WinFormsApp3\obj\Release\net6.0-windows\win-x86\calculator.dll
+D:\projects\C#\form\WinFormsApp3\obj\Release\net6.0-windows\win-x86\refint\calculator.dll
+D:\projects\C#\form\WinFormsApp3\obj\Release\net6.0-windows\win-x86\calculator.pdb
+D:\projects\C#\form\WinFormsApp3\obj\Release\net6.0-windows\win-x86\calculator.genruntimeconfig.cache
+D:\projects\C#\form\WinFormsApp3\obj\Release\net6.0-windows\win-x86\ref\calculator.dll
